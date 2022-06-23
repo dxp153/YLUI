@@ -1,0 +1,3 @@
+定位方式-》css selector,value值-》div.el-carousel__container
+定位方式-》css selector,value值-》.el-carousel__arrow--left
+定位方式-》xpath,value值-》//div[@class='el-carousel__container']/div[1]

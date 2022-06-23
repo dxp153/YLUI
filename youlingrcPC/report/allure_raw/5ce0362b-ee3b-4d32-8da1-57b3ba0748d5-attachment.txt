@@ -1,0 +1,5 @@
+定位方式-》class name,value值-》loginSty
+定位方式-》css selector,value值-》span.verification
+定位方式-》css selector,value值-》[placeholder='请输入验证码']
+定位方式-》xpath,value值-》//span[text()='登录']
+定位方式-》xpath,value值-》//div[@role='alert']

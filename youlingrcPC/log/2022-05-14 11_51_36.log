@@ -1,0 +1,7 @@
+[2022-05-14 11:51:42,746] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-14 11:51:43,472] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-14 11:51:43,563] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-14 11:51:43,635] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-14 11:51:43,687] [log.py|__console] [line:40] INFO    : 切换模块-- //li[text()='我的简历']
+[2022-05-14 11:51:44,268] [log.py|__console] [line:40] INFO    : 点击我的名片中的编辑按钮-- //div[@class='myMessage2']//span[@class='riCompile']/span
+[2022-05-14 11:51:44,377] [log.py|__console] [line:40] INFO    : 编辑名片中，点击生日控件-- //div[@class='xinxi']/div[@class='top'][1]//input

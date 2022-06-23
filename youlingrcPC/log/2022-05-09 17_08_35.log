@@ -1,0 +1,52 @@
+[2022-05-09 17:08:43,128] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-09 17:08:43,387] [log.py|__console] [line:40] INFO    : 获取当前页标签-- a.textS
+[2022-05-09 17:08:44,529] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-09 17:08:44,582] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-09 17:08:44,859] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找人才']
+[2022-05-09 17:08:44,948] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-09 17:08:45,055] [log.py|__console] [line:40] INFO    : 获取当前页标签-- a.textS
+[2022-05-09 17:08:46,217] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-09 17:08:46,279] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-09 17:08:46,575] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='批量用工']
+[2022-05-09 17:08:46,723] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-09 17:08:47,791] [log.py|__console] [line:46] ERROR   : Message: element click intercepted: Element <button data-v-074fe9f6="" type="button" class="el-button butselect el-button--default">...</button> is not clickable at point (1233, 450). Other element would receive the click: <div data-v-074fe9f6="" class="broadside concealSty">...</div>
+  (Session info: chrome=100.0.4896.127)
+
+[2022-05-09 17:08:47,792] [log.py|__console] [line:40] INFO    : 获取当前页标签-- a.textS
+[2022-05-09 17:09:03,464] [log.py|__console] [line:46] ERROR   : <pages.homepage_g.HomePage object at 0x000000000398A700>页面未找到('css selector', 'a.textS')元素
+[2022-05-09 17:09:03,464] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-09 17:09:04,199] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-09 17:09:04,900] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-09 17:09:05,176] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找工作']
+[2022-05-09 17:09:05,244] [log.py|__console] [line:40] INFO    : 首页搜索框中输入搜索内容-- //input[@placeholder='搜索职位、公司']
+[2022-05-09 17:09:05,313] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-09 17:09:05,924] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]//p[@class='textStyle']/span[1]
+[2022-05-09 17:09:06,444] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[1]//p[@class='textStyle']/span[2]
+[2022-05-09 17:09:06,963] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[1]//span[@class='Textright']
+[2022-05-09 17:09:07,495] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[2]//p[@class='textStyle']/span[1]
+[2022-05-09 17:09:08,015] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[2]//p[@class='textStyle']/span[2]
+[2022-05-09 17:09:08,533] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[2]//span[@class='Textright']
+[2022-05-09 17:09:09,077] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[3]//p[@class='textStyle']/span[1]
+[2022-05-09 17:09:09,597] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[3]//p[@class='textStyle']/span[2]
+[2022-05-09 17:09:10,115] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[3]//span[@class='Textright']
+[2022-05-09 17:09:10,649] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[4]//p[@class='textStyle']/span[1]
+[2022-05-09 17:09:11,168] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[4]//p[@class='textStyle']/span[2]
+[2022-05-09 17:09:11,687] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[4]//span[@class='Textright']
+[2022-05-09 17:09:12,221] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[5]//p[@class='textStyle']/span[1]
+[2022-05-09 17:09:12,742] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[5]//p[@class='textStyle']/span[2]
+[2022-05-09 17:09:13,283] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[5]//span[@class='Textright']
+[2022-05-09 17:09:13,819] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[6]//p[@class='textStyle']/span[1]
+[2022-05-09 17:09:14,340] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[6]//p[@class='textStyle']/span[2]
+[2022-05-09 17:09:14,861] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[6]//span[@class='Textright']
+[2022-05-09 17:09:15,392] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[7]//p[@class='textStyle']/span[1]
+[2022-05-09 17:09:15,910] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[7]//p[@class='textStyle']/span[2]
+[2022-05-09 17:09:16,437] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[7]//span[@class='Textright']
+[2022-05-09 17:09:16,978] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[8]//p[@class='textStyle']/span[1]
+[2022-05-09 17:09:17,508] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[8]//p[@class='textStyle']/span[2]
+[2022-05-09 17:09:18,027] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[8]//span[@class='Textright']
+[2022-05-09 17:09:18,561] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[9]//p[@class='textStyle']/span[1]
+[2022-05-09 17:09:19,081] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[9]//p[@class='textStyle']/span[2]
+[2022-05-09 17:09:19,601] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[9]//span[@class='Textright']
+[2022-05-09 17:09:20,131] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[10]//p[@class='textStyle']/span[1]
+[2022-05-09 17:09:20,662] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[10]//p[@class='textStyle']/span[2]
+[2022-05-09 17:09:21,193] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[10]//span[@class='Textright']

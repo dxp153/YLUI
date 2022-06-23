@@ -1,0 +1,8 @@
+[2022-05-14 11:47:57,942] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-14 11:47:58,004] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-14 11:47:58,101] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-14 11:47:58,171] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-14 11:47:58,216] [log.py|__console] [line:40] INFO    : 切换模块-- //li[text()='我的简历']
+[2022-05-14 11:47:58,790] [log.py|__console] [line:40] INFO    : 点击我的名片中的编辑按钮-- //div[@class='myMessage2']//span[@class='riCompile']/span
+[2022-05-14 11:47:58,894] [log.py|__console] [line:40] INFO    : 编辑名片中，点击生日控件-- //div[@class='xinxi']/div[@class='top'][1]//input
+[2022-05-14 11:48:00,186] [log.py|__console] [line:40] INFO    : 鼠标悬停到个人头像上-- .monicker.fl.clearfix

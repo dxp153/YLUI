@@ -1,0 +1,6 @@
+[2022-05-06 14:40:10,548] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-06 14:40:11,359] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='批量用工']
+[2022-05-06 14:40:11,452] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-06 14:40:11,536] [log.py|__console] [line:40] INFO    : 获取当前页标签-- a.router-link-exact-active.router-link-active.textS
+[2022-05-06 14:40:27,165] [log.py|__console] [line:46] ERROR   : <pages.homepage_g.HomePage object at 0x000000000394CCD0>页面未找到('css selector', 'a.router-link-exact-active.router-link-active.textS')元素
+[2022-05-06 14:40:27,166] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'

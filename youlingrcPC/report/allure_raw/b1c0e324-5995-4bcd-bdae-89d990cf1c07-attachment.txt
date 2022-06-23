@@ -1,0 +1,45 @@
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/url {"url": "https://www.youlingrc.com/#/entirety/subject"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/url HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/window/maximize {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/window/maximize HTTP/1.1" 200 52
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/refresh {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/refresh HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 点击 loginSty 元素跳转到登录页
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/element {"using": "css selector", "value": ".loginSty"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/element/6703e5e2-41f5-4295-bf61-5887f1a284e4/click {"id": "6703e5e2-41f5-4295-bf61-5887f1a284e4"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/element/6703e5e2-41f5-4295-bf61-5887f1a284e4/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/element {"using": "css selector", "value": "[placeholder='\u8bf7\u8f93\u5165\u624b\u673a\u53f7']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/element/c8fc661d-77c4-47aa-bde0-9a2d8b872183/value {"text": "15797629873", "value": ["1", "5", "7", "9", "7", "6", "2", "9", "8", "7", "3"], "id": "c8fc661d-77c4-47aa-bde0-9a2d8b872183"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/element/c8fc661d-77c4-47aa-bde0-9a2d8b872183/value HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 定位 [placeholder='请输入密码'] 元素进行密码输入
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/element {"using": "css selector", "value": "[placeholder='\u8bf7\u8f93\u5165\u5bc6\u7801']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/element/93fbcc9b-db48-4999-94a5-d4e150f55ce1/value {"text": "111111", "value": ["1", "1", "1", "1", "1", "1"], "id": "93fbcc9b-db48-4999-94a5-d4e150f55ce1"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/element/93fbcc9b-db48-4999-94a5-d4e150f55ce1/value HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 点击 //span[text()='登录'] 元素进行登录操作
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/element {"using": "xpath", "value": "//span[text()='\u767b\u5f55']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/element/0b2e83a9-3aa9-4edc-a7fa-24c44fd9b04a/click {"id": "0b2e83a9-3aa9-4edc-a7fa-24c44fd9b04a"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/element/0b2e83a9-3aa9-4edc-a7fa-24c44fd9b04a/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取 //div[@role='alert'] 元素的文本
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/element {"using": "xpath", "value": "//div[@role='alert']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "POST /session/133f5f0ea245ec479e5dea8727455fc4/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61875/session/133f5f0ea245ec479e5dea8727455fc4/element/ef8dc363-cb74-4a59-9d2f-6644ace337ee/text {"id": "ef8dc363-cb74-4a59-9d2f-6644ace337ee"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61875 "GET /session/133f5f0ea245ec479e5dea8727455fc4/element/ef8dc363-cb74-4a59-9d2f-6644ace337ee/text HTTP/1.1" 200 43
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 断言系统的提示-- 输入的账号或密码错误~ == 输入的账号或密码错误~

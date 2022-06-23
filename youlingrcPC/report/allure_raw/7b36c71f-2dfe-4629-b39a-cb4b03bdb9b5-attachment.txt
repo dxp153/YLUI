@@ -1,0 +1,44 @@
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/url {"url": "https://www.youlingrc.com/#/entirety/subject"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/url HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/window/maximize {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/window/maximize HTTP/1.1" 200 52
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/refresh {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/refresh HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='el-input-group__prepend']//input"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/5601be4e-e34c-4231-81b1-eea9457b82b1/click {"id": "5601be4e-e34c-4231-81b1-eea9457b82b1"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element/5601be4e-e34c-4231-81b1-eea9457b82b1/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "css selector", "value": ".el-select-dropdown__wrap.el-scrollbar__wrap"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/actions {"actions": [{"type": "pointer", "parameters": {"pointerType": "mouse"}, "id": "mouse", "actions": [{"type": "pointerMove", "duration": 250, "x": 0, "y": 0, "origin": {"element-6066-11e4-a52e-4f735466cecf": "4689826f-d8fd-48c4-88fb-a3fc0603f5ea"}}]}, {"type": "key", "id": "key", "actions": [{"type": "pause", "duration": 0}]}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/actions HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='批量用工']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='\u6279\u91cf\u7528\u5de5']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/7d5f94d7-6baf-4efb-a2ec-ad53ebc582e3/click {"id": "7d5f94d7-6baf-4efb-a2ec-ad53ebc582e3"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element/7d5f94d7-6baf-4efb-a2ec-ad53ebc582e3/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//button[@class='el-button butselect el-button--default']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/9af66c56-3032-4924-8c0d-598a15aaf5c2/click {"id": "9af66c56-3032-4924-8c0d-598a15aaf5c2"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element/9af66c56-3032-4924-8c0d-598a15aaf5c2/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取当前页标签-- a.textS
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "css selector", "value": "a.textS"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/0001ee80-ab61-4505-879d-10b14faa67d7/text {"id": "0001ee80-ab61-4505-879d-10b14faa67d7"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/0001ee80-ab61-4505-879d-10b14faa67d7/text HTTP/1.1" 200 21
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request

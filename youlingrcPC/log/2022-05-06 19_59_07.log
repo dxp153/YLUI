@@ -1,0 +1,15 @@
+[2022-05-06 19:59:14,773] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-06 19:59:14,832] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-06 19:59:15,143] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找工作']
+[2022-05-06 19:59:15,200] [log.py|__console] [line:40] INFO    : 首页搜索框中输入搜索内容-- //input[@placeholder='搜索职位、公司']
+[2022-05-06 19:59:15,281] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-06 19:59:15,388] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]
+[2022-05-06 19:59:30,605] [log.py|__console] [line:46] ERROR   : <pages.job_search.JobSearch object at 0x000000000390E7C0>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]")元素
+[2022-05-06 19:59:30,605] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]
+[2022-05-06 19:59:45,798] [log.py|__console] [line:46] ERROR   : <pages.job_search.JobSearch object at 0x000000000390E7C0>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]")元素
+[2022-05-06 20:00:00,987] [log.py|__console] [line:46] ERROR   : <pages.job_search.JobSearch object at 0x000000000390E7C0>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]")元素
+[2022-05-06 20:00:00,987] [log.py|__console] [line:46] ERROR   : object of type 'NoneType' has no len()
+[2022-05-06 20:00:00,988] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]
+[2022-05-06 20:00:16,201] [log.py|__console] [line:46] ERROR   : <pages.job_search.JobSearch object at 0x000000000390E7C0>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]")元素
+[2022-05-06 20:00:16,201] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]
+[2022-05-06 20:00:31,395] [log.py|__console] [line:46] ERROR   : <pages.job_search.JobSearch object at 0x000000000390E7C0>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]")元素

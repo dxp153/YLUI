@@ -1,0 +1,6 @@
+测试数据('15797629873', '111111', '输入的账号或密码错误~')
+定位方式-》class name,value值-》loginSty
+定位方式-》css selector,value值-》[placeholder='请输入手机号']
+定位方式-》css selector,value值-》[placeholder='请输入密码']
+定位方式-》xpath,value值-》//span[text()='登录']
+定位方式-》xpath,value值-》//div[@role='alert']

@@ -1,0 +1,8 @@
+[2022-05-11 17:44:15,259] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x0000000003945280>页面未找到('css selector', 'span.nameSty.fl')元素
+[2022-05-11 17:44:15,260] [log.py|__console] [line:46] ERROR   : move_to requires a WebElement
+[2022-05-11 17:44:30,469] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x0000000003945280>页面未找到('css selector', 'div.cutClass')元素
+[2022-05-11 17:44:45,645] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x0000000003945280>页面未找到('css selector', 'div.cutClass')元素
+[2022-05-11 17:44:45,645] [log.py|__console] [line:46] ERROR   : object of type 'NoneType' has no len()
+[2022-05-11 17:44:45,646] [log.py|__console] [line:46] ERROR   : 请切换为个人版
+[2022-05-11 17:45:00,860] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x0000000003945280>页面未找到('xpath', "//div[@class='monicker fl clearfix']")元素
+[2022-05-11 17:45:00,860] [log.py|__console] [line:46] ERROR   : move_to requires a WebElement

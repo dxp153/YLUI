@@ -1,0 +1,12 @@
+[2022-05-07 10:09:05,830] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-07 10:09:05,895] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-07 10:09:06,190] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找工作']
+[2022-05-07 10:09:06,232] [log.py|__console] [line:40] INFO    : 首页搜索框中输入搜索内容-- //input[@placeholder='搜索职位、公司']
+[2022-05-07 10:09:06,306] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-07 10:09:06,413] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]
+[2022-05-07 10:09:21,602] [log.py|__console] [line:46] ERROR   : <pages.job_search.JobSearch object at 0x000000000391D7C0>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]")元素
+[2022-05-07 10:09:36,808] [log.py|__console] [line:46] ERROR   : <pages.job_search.JobSearch object at 0x000000000391D7C0>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]")元素
+[2022-05-07 10:09:36,808] [log.py|__console] [line:46] ERROR   : object of type 'NoneType' has no len()
+[2022-05-07 10:09:36,809] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]
+[2022-05-07 10:09:52,011] [log.py|__console] [line:46] ERROR   : <pages.job_search.JobSearch object at 0x000000000391D7C0>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]")元素
+[2022-05-07 10:09:52,011] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]/p[@class='textStyle']/span[1]

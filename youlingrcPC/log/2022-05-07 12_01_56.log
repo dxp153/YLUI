@@ -1,0 +1,9 @@
+[2022-05-07 12:02:03,471] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-07 12:02:03,543] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-07 12:02:04,085] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找人才']
+[2022-05-07 12:02:04,127] [log.py|__console] [line:40] INFO    : 首页搜索框中输入搜索内容-- //input[@placeholder='搜索职位、公司']
+[2022-05-07 12:02:04,221] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-07 12:02:05,277] [log.py|__console] [line:46] ERROR   : Message: element click intercepted: Element <button data-v-074fe9f6="" type="button" class="el-button butselect el-button--default">...</button> is not clickable at point (1233, 450). Other element would receive the click: <div data-v-074fe9f6="" class="broadside concealSty">...</div>
+  (Session info: chrome=100.0.4896.127)
+
+[2022-05-07 12:02:13,984] [log.py|__console] [line:46] ERROR   : <pages.looking_talent.LookTalent object at 0x000000000398D160>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]")元素

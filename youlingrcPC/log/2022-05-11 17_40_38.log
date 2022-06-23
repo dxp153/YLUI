@@ -1,0 +1,12 @@
+[2022-05-11 17:40:39,599] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-11 17:40:51,202] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x0000000003955070>页面未找到('class name', 'loginSty')元素
+[2022-05-11 17:40:51,202] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-11 17:40:51,203] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-11 17:40:55,202] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x0000000003955070>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-11 17:40:55,202] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x0000000003955070> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-11 17:40:55,203] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-11 17:40:59,202] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x0000000003955070>页面未找到('css selector', "[placeholder='请输入密码']")元素
+[2022-05-11 17:40:59,202] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x0000000003955070> 页面未找到 ('css selector', "[placeholder='请输入密码']") 元素
+[2022-05-11 17:40:59,203] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-11 17:41:03,202] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x0000000003955070>页面未找到('xpath', "//span[text()='登录']")元素
+[2022-05-11 17:41:03,202] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'

@@ -1,0 +1,4 @@
+定位方式-》class name,value值-》loginSty
+定位方式-》class name,value值-》wjpassword
+定位方式-》css selector,value值-》p i
+定位方式-》css selector,value值-》.password

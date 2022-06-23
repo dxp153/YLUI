@@ -1,0 +1,10 @@
+[2022-05-06 11:58:02,966] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-06 11:58:03,680] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='批量用工']
+[2022-05-06 11:58:03,711] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=95.0.4638.69)
+
+[2022-05-06 11:58:03,711] [log.py|__console] [line:40] INFO    : 首页搜索框中输入搜索内容-- li.el-select-dropdown__item.selected.hover
+[2022-05-06 11:58:19,407] [log.py|__console] [line:46] ERROR   : <pages.homepage_g.HomePage object at 0x0000000003958DF0>页面未找到('css selector', 'li.el-select-dropdown__item.selected.hover')元素
+[2022-05-06 11:58:19,408] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-06 11:58:19,408] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-06 11:58:19,543] [log.py|__console] [line:40] INFO    : 获取当前页标签-- .router-link-active.textS

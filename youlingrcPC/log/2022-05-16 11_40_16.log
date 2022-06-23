@@ -1,0 +1,20 @@
+[2022-05-16 11:40:23,750] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-16 11:40:23,819] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-16 11:40:23,913] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-16 11:40:23,983] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-16 11:40:24,037] [log.py|__console] [line:40] INFO    : 切换模块-- //li[text()='我的简历']
+[2022-05-16 11:40:24,614] [log.py|__console] [line:40] INFO    : 点击我的名片中的编辑按钮-- //div[@class='myMessage2']//span[@class='riCompile']/span
+[2022-05-16 11:40:24,723] [log.py|__console] [line:40] INFO    : 点击想要的工作按钮-- .wantjob .btn
+[2022-05-16 11:40:24,783] [log.py|__console] [line:40] INFO    : 选择想要的一级工作-- //div[@class='el-scrollbar__view']//span[text()='服务行业']
+[2022-05-16 11:40:24,850] [log.py|__console] [line:40] INFO    : 选择想要的二级工作-- //div[@class='el-scrollbar__view']//span[text()='司机']
+[2022-05-16 11:40:24,906] [log.py|__console] [line:40] INFO    : 获取三级工作岗位数量-- //ul[@class='threeList']/li
+[2022-05-16 11:40:24,919] [log.py|__console] [line:40] INFO    : 选择想要的三级工作-- //ul[@class='threeList']/li
+[2022-05-16 11:40:24,972] [log.py|__console] [line:40] INFO    : 选择想要的三级工作-- //ul[@class='threeList']/li
+[2022-05-16 11:40:25,037] [log.py|__console] [line:40] INFO    : 选择想要的三级工作-- //ul[@class='threeList']/li
+[2022-05-16 11:40:25,082] [log.py|__console] [line:40] INFO    : 选择想要的三级工作-- //ul[@class='threeList']/li
+[2022-05-16 11:40:25,120] [log.py|__console] [line:40] INFO    : 选择想要的三级工作-- //ul[@class='threeList']/li
+[2022-05-16 11:40:25,156] [log.py|__console] [line:40] INFO    : 获取已选择的想要的工作-- //div[@class='addressbox']//span[@class='xuanzhongCity']
+[2022-05-16 11:40:25,224] [log.py|__console] [line:40] INFO    : 选择想要的工作-- .bottomBtn .Btn
+[2022-05-16 11:40:25,266] [log.py|__console] [line:40] INFO    : 确认修改编辑后的我的名片-- //div[@class='compileMyMessage']//span[@class='riCompile']/span[2]
+[2022-05-16 11:40:25,799] [log.py|__console] [line:40] INFO    : 获取用户期望职位-- //div[@class='myMessage2']//div[@class='btn']/span
+[2022-05-16 11:40:26,033] [log.py|__console] [line:40] INFO    : 鼠标悬停到个人头像上-- .monicker.fl.clearfix

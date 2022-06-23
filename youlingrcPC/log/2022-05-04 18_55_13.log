@@ -1,0 +1,6 @@
+[2022-05-04 18:55:20,021] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-04 18:55:20,833] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-04 18:55:20,922] [log.py|__console] [line:40] INFO    : 点击 el-checkbox__label 元素,跳转协议页面
+[2022-05-04 18:55:20,977] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-04 18:55:21,030] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-04 18:55:21,071] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本

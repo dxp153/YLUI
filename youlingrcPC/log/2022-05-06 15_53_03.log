@@ -1,0 +1,3 @@
+[2022-05-06 15:53:15,007] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-06 15:53:15,062] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-scrollbar__view.el-select-dropdown__list
+[2022-05-06 15:53:20,343] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找人才']

@@ -1,0 +1,2 @@
+[2022-06-22 11:01:16,832] [log.py|__console] [line:40] INFO    : 点击侧边浮窗 //*[@class='fixed']/*/p[text()='发布需求'] 元素,进行需求发布
+[2022-06-22 11:01:17,303] [log.py|__console] [line:40] INFO    : 点击 //div[@class='youlingTitle']//li[@class='demandLi'] 元素切换到发布社区服务需求

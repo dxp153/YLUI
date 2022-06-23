@@ -1,0 +1,26 @@
+[2022-05-13 12:04:30,261] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-13 12:04:30,334] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-13 12:04:30,439] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-13 12:04:30,549] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-13 12:04:30,607] [log.py|__console] [line:40] INFO    : 切换模块-- //li[text()='我的简历']
+[2022-05-13 12:04:31,177] [log.py|__console] [line:40] INFO    : 获取我的名片中全部文本-- div.myMessage2 div
+[2022-05-13 12:04:31,709] [log.py|__console] [line:40] INFO    : 获取工作经验中全部文本-- div.myMessage3 div
+[2022-05-13 12:04:32,227] [log.py|__console] [line:40] INFO    : 获取技能证书中全部文本-- div.myMessage4 div
+[2022-05-13 12:04:32,746] [log.py|__console] [line:40] INFO    : 点击简历刷新-- div.rinei>div:first-child h2:first-child span+a span span
+[2022-05-13 12:04:32,844] [log.py|__console] [line:40] INFO    : 获取我的名片中全部文本-- div.myMessage2 div
+[2022-05-13 12:04:34,931] [log.py|__console] [line:40] INFO    : 获取工作经验中全部文本-- div.myMessage3 div
+[2022-05-13 12:04:35,448] [log.py|__console] [line:40] INFO    : 获取技能证书中全部文本-- div.myMessage4 div
+[2022-05-13 12:04:36,103] [log.py|__console] [line:46] ERROR   : 等等
+男|22岁|博士|应届生
+电工学徒工锅炉工
+地址：广东省广州市白云区
+自我介绍：自我介绍 ☔️ 自我介绍 ☔️ 自我介绍 ☔️ 自自我介绍 ☔️ 介绍 ☔️ 自我介绍 ☔️ 自我介绍 ☔️
+[2022-05-13 12:04:36,104] [log.py|__console] [line:46] ERROR   : 等等
+男|22岁|博士| 应届生
+地址：广东省广州市白云区
+自我介绍：自我介绍 ☔️ 自我介绍 ☔️ 自我介绍 ☔️ 自自我介绍 ☔️ 介绍 ☔️ 自我介绍 ☔️ 自我介绍 ☔️
+[2022-05-13 12:04:36,134] [log.py|__console] [line:40] INFO    : 鼠标悬停到个人头像上-- .monicker.fl.clearfix
+[2022-05-13 12:04:51,311] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000391AA30>页面未找到('css selector', '.monicker.fl.clearfix')元素
+[2022-05-13 12:04:51,311] [log.py|__console] [line:46] ERROR   : move_to requires a WebElement
+[2022-05-13 12:05:06,497] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000391AA30>页面未找到('css selector', 'div.exit')元素
+[2022-05-13 12:05:06,497] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'

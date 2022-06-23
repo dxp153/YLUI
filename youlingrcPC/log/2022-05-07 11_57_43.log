@@ -1,0 +1,15 @@
+[2022-05-07 11:57:50,469] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-07 11:57:50,527] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-07 11:57:50,822] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找人才']
+[2022-05-07 11:57:50,885] [log.py|__console] [line:40] INFO    : 首页搜索框中输入搜索内容-- //input[@placeholder='搜索职位、公司']
+[2022-05-07 11:57:50,983] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-07 11:57:51,615] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]//div[@class='gonglei']/span
+[2022-05-07 11:57:51,658] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[2]//div[@class='gonglei']/span
+[2022-05-07 11:57:51,727] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[3]//div[@class='gonglei']/span
+[2022-05-07 11:57:51,788] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[4]//div[@class='gonglei']/span
+[2022-05-07 11:57:51,849] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[5]//div[@class='gonglei']/span
+[2022-05-07 11:57:51,896] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[6]//div[@class='gonglei']/span
+[2022-05-07 11:57:51,958] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[7]//div[@class='gonglei']/span
+[2022-05-07 11:57:52,010] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[8]//div[@class='gonglei']/span
+[2022-05-07 11:57:52,109] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[9]//div[@class='gonglei']/span
+[2022-05-07 11:57:52,229] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[10]//div[@class='gonglei']/span

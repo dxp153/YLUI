@@ -1,0 +1,6 @@
+测试数据('', '123456', '请输入正确的手机号码！')
+定位方式-》class name,value值-》loginSty
+手机号格式错误
+定位方式-》css selector,value值-》[placeholder='请输入密码']
+定位方式-》xpath,value值-》//span[text()='登录']
+定位方式-》xpath,value值-》//div[@role='alert']

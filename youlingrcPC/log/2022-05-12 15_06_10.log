@@ -1,0 +1,9 @@
+[2022-05-12 15:06:15,989] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-12 15:06:16,894] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-12 15:06:16,989] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-12 15:06:17,063] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-12 15:06:17,129] [log.py|__console] [line:40] INFO    : 获取导航栏用户姓名-- div.monicker.fl.clearfix>span.nameSty
+[2022-05-12 15:06:17,647] [log.py|__console] [line:40] INFO    : 获取当前用户的用户姓名-- div.top>span.name
+[2022-05-12 15:06:18,167] [log.py|__console] [line:40] INFO    : 点击完善求职信息-- div.message a
+[2022-05-12 15:06:18,229] [log.py|__console] [line:40] INFO    : 切换到个人中心-- //div[@class='myMessage']//span[@class='leBorder']/..
+[2022-05-12 15:06:18,755] [log.py|__console] [line:40] INFO    : 点击我的投递-- //p[text()='我的投递']

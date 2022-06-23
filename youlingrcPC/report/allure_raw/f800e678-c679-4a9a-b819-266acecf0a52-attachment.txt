@@ -1,0 +1,2 @@
+定位方式-》xpath,value值-》//button[@class='el-button butselect el-button--default']
+定位方式-》css selector,value值-》a.textS

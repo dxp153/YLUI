@@ -1,0 +1,12 @@
+[2022-05-09 15:24:43,020] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:24:43,854] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-09 15:24:43,921] [log.py|__console] [line:40] INFO    : 点击 el-checkbox__label 元素,跳转协议页面
+[2022-05-09 15:24:43,983] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-09 15:24:44,044] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-09 15:24:44,079] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:44,597] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码不正确
+[2022-05-09 15:24:44,597] [log.py|__console] [line:40] INFO    : 清空 [placeholder='请输入验证码'] 元素输入框
+[2022-05-09 15:24:44,619] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-09 15:24:44,645] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-09 15:24:44,664] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:45,175] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码无效，请查验后再试

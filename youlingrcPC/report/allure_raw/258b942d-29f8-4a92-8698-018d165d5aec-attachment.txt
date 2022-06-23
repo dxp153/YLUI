@@ -1,0 +1,13 @@
+[2022-05-09 15:25:05,860] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:25:05,955] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-09 15:25:06,001] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-09 15:25:06,048] [log.py|__console] [line:40] INFO    : 点击 el-checkbox__label 元素,跳转协议页面
+[2022-05-09 15:25:06,085] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-09 15:25:06,137] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-09 15:25:06,171] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:25:06,688] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码不正确
+[2022-05-09 15:25:06,688] [log.py|__console] [line:40] INFO    : 清空 [placeholder='请输入验证码'] 元素输入框
+[2022-05-09 15:25:06,710] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-09 15:25:06,737] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-09 15:25:06,755] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:25:07,267] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码无效，请查验后再试

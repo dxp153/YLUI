@@ -1,0 +1,1 @@
+pip install pytest-assume       pytest-assume插件可以解决断言失败后继续断言的问题　

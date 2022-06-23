@@ -1,0 +1,5 @@
+[2022-05-04 18:40:56,530] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-04 18:40:57,319] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号码'] 中填写手机号
+[2022-05-04 18:41:12,479] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x0000000003C52730>页面未找到('css selector', "[placeholder='请输入手机号码']")元素
+[2022-05-04 18:41:12,479] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x0000000003C52730> 页面未找到 ('css selector', "[placeholder='请输入手机号码']") 元素
+[2022-05-04 18:41:12,480] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码

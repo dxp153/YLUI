@@ -1,0 +1,5 @@
+定位方式-》xpath,value值-》//div[@class='el-input-group__prepend']//input
+定位方式-》css selector,value值-》.el-select-dropdown__wrap.el-scrollbar__wrap
+定位方式-》xpath,value值-》//div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='批量用工']
+定位方式-》xpath,value值-》//button[@class='el-button butselect el-button--default']
+定位方式-》css selector,value值-》a.textS

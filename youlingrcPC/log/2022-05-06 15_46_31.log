@@ -1,0 +1,2 @@
+[2022-05-06 15:46:46,774] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-06 15:46:51,819] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找人才']

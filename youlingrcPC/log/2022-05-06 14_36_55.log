@@ -1,0 +1,4 @@
+[2022-05-06 14:37:02,531] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-06 14:37:03,470] [log.py|__console] [line:40] INFO    : 获取当前页标签-- a.router-link-exact-active.router-link-active.textS
+[2022-05-06 14:37:19,139] [log.py|__console] [line:46] ERROR   : <pages.homepage_g.HomePage object at 0x0000000003946BE0>页面未找到('css selector', 'a.router-link-exact-active.router-link-active.textS')元素
+[2022-05-06 14:37:19,139] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'

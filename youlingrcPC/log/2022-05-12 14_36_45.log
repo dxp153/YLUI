@@ -1,0 +1,12 @@
+[2022-05-12 14:36:53,813] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-12 14:36:53,873] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-12 14:36:53,971] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-12 14:36:54,046] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-12 14:36:54,126] [log.py|__console] [line:40] INFO    : 获取导航栏用户姓名-- div.monicker.fl.clearfix>span.nameSty
+[2022-05-12 14:36:54,644] [log.py|__console] [line:40] INFO    : 获取当前用户的用户姓名-- div.top>span.name
+[2022-05-12 14:36:55,164] [log.py|__console] [line:40] INFO    : 鼠标悬停到个人头像上-- monicker fl clearfix
+[2022-05-12 14:37:10,352] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x00000000038FA2E0>页面未找到('class name', 'monicker fl clearfix')元素
+[2022-05-12 14:37:10,352] [log.py|__console] [line:46] ERROR   : move_to requires a WebElement
+[2022-05-12 14:37:10,373] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+

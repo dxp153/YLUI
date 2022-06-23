@@ -1,0 +1,2 @@
+定位方式-》xpath,value值-》//ul[@class='el-carousel__indicators el-carousel__indicators--horizontal']/li[1]
+定位方式-》xpath,value值-》//div[@class='el-carousel__container']/div[1]

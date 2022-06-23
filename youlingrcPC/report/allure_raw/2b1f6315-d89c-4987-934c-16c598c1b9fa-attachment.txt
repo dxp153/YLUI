@@ -1,0 +1,317 @@
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/url {"url": "https://www.youlingrc.com/#/entirety/subject"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/url HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/window/maximize {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/window/maximize HTTP/1.1" 200 52
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/refresh {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/refresh HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='el-input-group__prepend']//input"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/0c004df4-ba15-46e6-a7cf-1f3ea7972ea5/click {"id": "0c004df4-ba15-46e6-a7cf-1f3ea7972ea5"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element/0c004df4-ba15-46e6-a7cf-1f3ea7972ea5/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "css selector", "value": ".el-select-dropdown__wrap.el-scrollbar__wrap"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/actions {"actions": [{"type": "pointer", "parameters": {"pointerType": "mouse"}, "id": "mouse", "actions": [{"type": "pointerMove", "duration": 250, "x": 0, "y": 0, "origin": {"element-6066-11e4-a52e-4f735466cecf": "5408469f-f610-4fe5-abaf-35f89571fba7"}}]}, {"type": "key", "id": "key", "actions": [{"type": "pause", "duration": 0}]}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/actions HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找工作']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='\u627e\u5de5\u4f5c']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/8c3ed9f0-ee6f-4ff7-876d-f64971aa3ffc/click {"id": "8c3ed9f0-ee6f-4ff7-876d-f64971aa3ffc"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element/8c3ed9f0-ee6f-4ff7-876d-f64971aa3ffc/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 首页搜索框中输入搜索内容-- //input[@placeholder='搜索职位、公司']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//input[@placeholder='\u641c\u7d22\u804c\u4f4d\u3001\u516c\u53f8']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/7c4c1e8d-21d1-4f58-9544-e9a09893134a/value {"text": "\u9500\u552e", "value": ["\u9500", "\u552e"], "id": "7c4c1e8d-21d1-4f58-9544-e9a09893134a"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element/7c4c1e8d-21d1-4f58-9544-e9a09893134a/value HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//button[@class='el-button butselect el-button--default']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/71ed8196-e35e-4c53-9845-e5b084c963ee/click {"id": "71ed8196-e35e-4c53-9845-e5b084c963ee"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element/71ed8196-e35e-4c53-9845-e5b084c963ee/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 404 1026
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/execute/sync {"script": "arguments[0].scrollIntoView();", "args": [{"ELEMENT": "2f9d5b24-5d91-4270-b979-21d498212263", "element-6066-11e4-a52e-4f735466cecf": "2f9d5b24-5d91-4270-b979-21d498212263"}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/execute/sync HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]//p[@class='textStyle']/span[1]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[1]//p[@class='textStyle']/span[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/c94488e7-b28c-45fc-8fb9-6517f46fadcf/text {"id": "c94488e7-b28c-45fc-8fb9-6517f46fadcf"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/c94488e7-b28c-45fc-8fb9-6517f46fadcf/text HTTP/1.1" 200 30
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的企业名称-- //div[@class='leftCentent']/ul[1]//p[@class='textStyle']/span[2]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[1]//p[@class='textStyle']/span[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/2d3f933a-7f36-478c-84dc-90d5668b81c2/text {"id": "2d3f933a-7f36-478c-84dc-90d5668b81c2"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/2d3f933a-7f36-478c-84dc-90d5668b81c2/text HTTP/1.1" 200 51
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[1]//span[@class='Textright']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[1]//span[@class='Textright']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/f4c6e31c-23b3-4207-8ead-8018c2e06dcb/text {"id": "f4c6e31c-23b3-4207-8ead-8018c2e06dcb"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/f4c6e31c-23b3-4207-8ead-8018c2e06dcb/text HTTP/1.1" 200 27
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/execute/sync {"script": "arguments[0].scrollIntoView();", "args": [{"ELEMENT": "4eedd789-05dd-4de5-905d-3807e74ce912", "element-6066-11e4-a52e-4f735466cecf": "4eedd789-05dd-4de5-905d-3807e74ce912"}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/execute/sync HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[2]//p[@class='textStyle']/span[1]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[2]//p[@class='textStyle']/span[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/7f0018dd-5c01-4ed8-b7c8-b1de865faf4b/text {"id": "7f0018dd-5c01-4ed8-b7c8-b1de865faf4b"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/7f0018dd-5c01-4ed8-b7c8-b1de865faf4b/text HTTP/1.1" 200 34
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的企业名称-- //div[@class='leftCentent']/ul[2]//p[@class='textStyle']/span[2]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[2]//p[@class='textStyle']/span[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/cbe40372-bb3d-4aec-a03a-6b1528d87860/text {"id": "cbe40372-bb3d-4aec-a03a-6b1528d87860"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/cbe40372-bb3d-4aec-a03a-6b1528d87860/text HTTP/1.1" 200 48
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[2]//span[@class='Textright']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[2]//span[@class='Textright']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/75f019f4-c9f7-48e2-9863-53c2391e94b1/text {"id": "75f019f4-c9f7-48e2-9863-53c2391e94b1"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/75f019f4-c9f7-48e2-9863-53c2391e94b1/text HTTP/1.1" 200 24
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[3]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/execute/sync {"script": "arguments[0].scrollIntoView();", "args": [{"ELEMENT": "74e14f01-a2d9-40b8-a53a-4b339302a698", "element-6066-11e4-a52e-4f735466cecf": "74e14f01-a2d9-40b8-a53a-4b339302a698"}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/execute/sync HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[3]//p[@class='textStyle']/span[1]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[3]//p[@class='textStyle']/span[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/649f52bc-405b-4b15-b78d-07159194fc6c/text {"id": "649f52bc-405b-4b15-b78d-07159194fc6c"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/649f52bc-405b-4b15-b78d-07159194fc6c/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的企业名称-- //div[@class='leftCentent']/ul[3]//p[@class='textStyle']/span[2]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[3]//p[@class='textStyle']/span[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/f89574ef-f7b8-4d36-bcfe-1b4b267ae3e8/text {"id": "f89574ef-f7b8-4d36-bcfe-1b4b267ae3e8"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/f89574ef-f7b8-4d36-bcfe-1b4b267ae3e8/text HTTP/1.1" 200 45
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[3]//span[@class='Textright']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[3]//span[@class='Textright']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/43413ead-da75-40a6-b600-d58c699b7ff9/text {"id": "43413ead-da75-40a6-b600-d58c699b7ff9"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/43413ead-da75-40a6-b600-d58c699b7ff9/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[4]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/execute/sync {"script": "arguments[0].scrollIntoView();", "args": [{"ELEMENT": "bc28892c-399b-4d55-932f-9531055847f2", "element-6066-11e4-a52e-4f735466cecf": "bc28892c-399b-4d55-932f-9531055847f2"}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/execute/sync HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[4]//p[@class='textStyle']/span[1]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[4]//p[@class='textStyle']/span[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/6cc47049-231e-4d6a-b821-60ce38fd5917/text {"id": "6cc47049-231e-4d6a-b821-60ce38fd5917"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/6cc47049-231e-4d6a-b821-60ce38fd5917/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的企业名称-- //div[@class='leftCentent']/ul[4]//p[@class='textStyle']/span[2]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[4]//p[@class='textStyle']/span[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/f78e3a4f-9f6e-489d-8b18-02f169334345/text {"id": "f78e3a4f-9f6e-489d-8b18-02f169334345"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/f78e3a4f-9f6e-489d-8b18-02f169334345/text HTTP/1.1" 200 54
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[4]//span[@class='Textright']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[4]//span[@class='Textright']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/cdbbc896-bad8-40d7-91ce-e53a00f2a022/text {"id": "cdbbc896-bad8-40d7-91ce-e53a00f2a022"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/cdbbc896-bad8-40d7-91ce-e53a00f2a022/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[5]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/execute/sync {"script": "arguments[0].scrollIntoView();", "args": [{"ELEMENT": "c616ab9e-305a-47e3-85b0-0d3692223fb4", "element-6066-11e4-a52e-4f735466cecf": "c616ab9e-305a-47e3-85b0-0d3692223fb4"}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/execute/sync HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[5]//p[@class='textStyle']/span[1]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[5]//p[@class='textStyle']/span[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/d20c2fbb-ea48-42d5-94b5-ff9b6521c0ac/text {"id": "d20c2fbb-ea48-42d5-94b5-ff9b6521c0ac"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/d20c2fbb-ea48-42d5-94b5-ff9b6521c0ac/text HTTP/1.1" 200 24
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的企业名称-- //div[@class='leftCentent']/ul[5]//p[@class='textStyle']/span[2]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[5]//p[@class='textStyle']/span[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/5c37616c-3c01-4b5d-86d3-8b55e76e6040/text {"id": "5c37616c-3c01-4b5d-86d3-8b55e76e6040"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/5c37616c-3c01-4b5d-86d3-8b55e76e6040/text HTTP/1.1" 200 63
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[5]//span[@class='Textright']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[5]//span[@class='Textright']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/c4c26510-4ce1-44a0-a252-5eab2fab5aec/text {"id": "c4c26510-4ce1-44a0-a252-5eab2fab5aec"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/c4c26510-4ce1-44a0-a252-5eab2fab5aec/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[6]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/execute/sync {"script": "arguments[0].scrollIntoView();", "args": [{"ELEMENT": "dc48994d-cb52-4156-9319-ab495d2bb7b1", "element-6066-11e4-a52e-4f735466cecf": "dc48994d-cb52-4156-9319-ab495d2bb7b1"}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/execute/sync HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[6]//p[@class='textStyle']/span[1]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[6]//p[@class='textStyle']/span[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/8583a19d-ea4a-40fd-b0c5-a56be0a28dd8/text {"id": "8583a19d-ea4a-40fd-b0c5-a56be0a28dd8"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/8583a19d-ea4a-40fd-b0c5-a56be0a28dd8/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的企业名称-- //div[@class='leftCentent']/ul[6]//p[@class='textStyle']/span[2]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[6]//p[@class='textStyle']/span[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/2889c5d1-98a3-496c-85c3-f07d550271d9/text {"id": "2889c5d1-98a3-496c-85c3-f07d550271d9"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/2889c5d1-98a3-496c-85c3-f07d550271d9/text HTTP/1.1" 200 48
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[6]//span[@class='Textright']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[6]//span[@class='Textright']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/7e9da5e9-3e78-462e-9504-76a34271e520/text {"id": "7e9da5e9-3e78-462e-9504-76a34271e520"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/7e9da5e9-3e78-462e-9504-76a34271e520/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[7]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/execute/sync {"script": "arguments[0].scrollIntoView();", "args": [{"ELEMENT": "89d05ad5-89d6-4de5-9042-301af385f112", "element-6066-11e4-a52e-4f735466cecf": "89d05ad5-89d6-4de5-9042-301af385f112"}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/execute/sync HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[7]//p[@class='textStyle']/span[1]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[7]//p[@class='textStyle']/span[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/b0cf5af0-ccab-464b-a76e-f8bcb2a8a914/text {"id": "b0cf5af0-ccab-464b-a76e-f8bcb2a8a914"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/b0cf5af0-ccab-464b-a76e-f8bcb2a8a914/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的企业名称-- //div[@class='leftCentent']/ul[7]//p[@class='textStyle']/span[2]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[7]//p[@class='textStyle']/span[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/c72ced19-6b44-4245-8269-1a99cda1d344/text {"id": "c72ced19-6b44-4245-8269-1a99cda1d344"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/c72ced19-6b44-4245-8269-1a99cda1d344/text HTTP/1.1" 200 48
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[7]//span[@class='Textright']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[7]//span[@class='Textright']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/aacd205d-1be0-4f8e-a348-8b6601218643/text {"id": "aacd205d-1be0-4f8e-a348-8b6601218643"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/aacd205d-1be0-4f8e-a348-8b6601218643/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[8]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/execute/sync {"script": "arguments[0].scrollIntoView();", "args": [{"ELEMENT": "8513d3d6-d3f3-476f-b5c8-68f53703ff12", "element-6066-11e4-a52e-4f735466cecf": "8513d3d6-d3f3-476f-b5c8-68f53703ff12"}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/execute/sync HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[8]//p[@class='textStyle']/span[1]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[8]//p[@class='textStyle']/span[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/0eb3cc01-ffd6-4905-a0de-abfb7abf98ec/text {"id": "0eb3cc01-ffd6-4905-a0de-abfb7abf98ec"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/0eb3cc01-ffd6-4905-a0de-abfb7abf98ec/text HTTP/1.1" 200 27
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的企业名称-- //div[@class='leftCentent']/ul[8]//p[@class='textStyle']/span[2]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[8]//p[@class='textStyle']/span[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/7b978520-69da-49e6-88cd-32891d4b136e/text {"id": "7b978520-69da-49e6-88cd-32891d4b136e"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/7b978520-69da-49e6-88cd-32891d4b136e/text HTTP/1.1" 200 54
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[8]//span[@class='Textright']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[8]//span[@class='Textright']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/3cbce883-c8a9-429f-a42a-179c33a2e828/text {"id": "3cbce883-c8a9-429f-a42a-179c33a2e828"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/3cbce883-c8a9-429f-a42a-179c33a2e828/text HTTP/1.1" 200 27
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[9]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/execute/sync {"script": "arguments[0].scrollIntoView();", "args": [{"ELEMENT": "53e06424-ec88-403f-9992-d2c0fe40ad64", "element-6066-11e4-a52e-4f735466cecf": "53e06424-ec88-403f-9992-d2c0fe40ad64"}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/execute/sync HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[9]//p[@class='textStyle']/span[1]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[9]//p[@class='textStyle']/span[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/19b54c9c-c384-4e34-b275-76acde9b993c/text {"id": "19b54c9c-c384-4e34-b275-76acde9b993c"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/19b54c9c-c384-4e34-b275-76acde9b993c/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的企业名称-- //div[@class='leftCentent']/ul[9]//p[@class='textStyle']/span[2]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[9]//p[@class='textStyle']/span[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/7d27bff7-3b42-47e2-9850-f8f6b485d0c3/text {"id": "7d27bff7-3b42-47e2-9850-f8f6b485d0c3"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/7d27bff7-3b42-47e2-9850-f8f6b485d0c3/text HTTP/1.1" 200 24
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[9]//span[@class='Textright']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[9]//span[@class='Textright']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/59762980-c7e9-4241-a8ef-0b78432f7d89/text {"id": "59762980-c7e9-4241-a8ef-0b78432f7d89"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/59762980-c7e9-4241-a8ef-0b78432f7d89/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[10]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/execute/sync {"script": "arguments[0].scrollIntoView();", "args": [{"ELEMENT": "c9d4769e-b965-47f7-a42d-f79b578b4810", "element-6066-11e4-a52e-4f735466cecf": "c9d4769e-b965-47f7-a42d-f79b578b4810"}]}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/execute/sync HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[10]//p[@class='textStyle']/span[1]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[10]//p[@class='textStyle']/span[1]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/b633db44-41f1-4b98-b79f-20e0312677b5/text {"id": "b633db44-41f1-4b98-b79f-20e0312677b5"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/b633db44-41f1-4b98-b79f-20e0312677b5/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的企业名称-- //div[@class='leftCentent']/ul[10]//p[@class='textStyle']/span[2]
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[10]//p[@class='textStyle']/span[2]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/1cdcb28b-4cc8-4faf-9535-c975cdb5cde0/text {"id": "1cdcb28b-4cc8-4faf-9535-c975cdb5cde0"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/1cdcb28b-4cc8-4faf-9535-c975cdb5cde0/text HTTP/1.1" 200 45
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[10]//span[@class='Textright']
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element {"using": "xpath", "value": "//div[@class='leftCentent']/ul[10]//span[@class='Textright']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "POST /session/912977437a5c72d880d441e7f95fac11/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:61768/session/912977437a5c72d880d441e7f95fac11/element/25b8bf7d-a6d9-480f-9188-dd83a01bae58/text {"id": "25b8bf7d-a6d9-480f-9188-dd83a01bae58"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:61768 "GET /session/912977437a5c72d880d441e7f95fac11/element/25b8bf7d-a6d9-480f-9188-dd83a01bae58/text HTTP/1.1" 200 18
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request

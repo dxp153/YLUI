@@ -1,0 +1,21 @@
+[2022-05-12 15:42:54,697] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-12 15:42:54,757] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-12 15:42:54,869] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-12 15:42:54,944] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-12 15:42:55,011] [log.py|__console] [line:40] INFO    : 获取导航栏用户姓名-- div.monicker.fl.clearfix>span.nameSty
+[2022-05-12 15:42:55,533] [log.py|__console] [line:40] INFO    : 获取当前用户的用户姓名-- div.top>span.name
+[2022-05-12 15:42:56,055] [log.py|__console] [line:40] INFO    : 点击完善求职信息-- div.message a
+[2022-05-12 15:42:56,128] [log.py|__console] [line:40] INFO    : 切换到个人中心-- div.rinei>div:first-child h2:first-child
+[2022-05-12 15:42:56,651] [log.py|__console] [line:40] INFO    : 返回我的信息页-- div.message a
+[2022-05-12 15:42:56,710] [log.py|__console] [line:40] INFO    : 点击我的投递-- //p[text()='我的投递']
+[2022-05-12 15:42:56,795] [log.py|__console] [line:40] INFO    : 返回我的信息页-- div.message a
+[2022-05-12 15:42:56,843] [log.py|__console] [line:40] INFO    : 切换到个人中心-- div.rinei>div:first-child h2:first-child
+[2022-05-12 15:43:12,518] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x0000000003921130>页面未找到('css selector', 'div.rinei>div:first-child h2:first-child')元素
+[2022-05-12 15:43:12,518] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-12 15:43:12,663] [log.py|__console] [line:40] INFO    : 点击我的收藏-- //p[text()='我的收藏']
+[2022-05-12 15:43:12,730] [log.py|__console] [line:40] INFO    : 切换到个人中心-- div.rinei>div:first-child h2:first-child
+[2022-05-12 15:43:13,247] [log.py|__console] [line:40] INFO    : 返回我的信息页-- div.message a
+[2022-05-12 15:43:13,329] [log.py|__console] [line:40] INFO    : 点击我的报名-- //p[text()='我的报名']
+[2022-05-12 15:43:13,398] [log.py|__console] [line:40] INFO    : 切换到个人中心-- div.rinei>div:first-child h2:first-child
+[2022-05-12 15:43:13,915] [log.py|__console] [line:40] INFO    : 返回我的信息页-- div.message a
+[2022-05-12 15:43:13,954] [log.py|__console] [line:40] INFO    : 鼠标悬停到个人头像上-- .monicker.fl.clearfix

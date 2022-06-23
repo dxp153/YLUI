@@ -1,0 +1,135 @@
+[2022-05-05 15:23:58,184] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:23:58,938] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:23:59,029] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-05 15:23:59,092] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-05 15:23:59,163] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:23:59,684] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 密码不能为空！ == 密码不能为空！
+[2022-05-05 15:23:59,786] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:24:00,411] [log.py|__console] [line:46] ERROR   : 手机号类型错误，请输入数字
+[2022-05-05 15:24:00,412] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-05 15:24:00,469] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-05 15:24:00,530] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:01,047] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 请输入正确的手机号码！ == 请输入正确的手机号码！
+[2022-05-05 15:24:01,118] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:24:01,687] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:24:01,762] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-05 15:24:01,815] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-05 15:24:01,873] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:02,390] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 输入的账号或密码错误~ == 输入的账号或密码错误~
+[2022-05-05 15:24:02,479] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:24:02,970] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:24:03,037] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-05 15:24:03,089] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-05 15:24:03,145] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:03,660] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 输入的账号或密码错误~ == 输入的账号或密码错误~
+[2022-05-05 15:24:04,134] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:24:04,200] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-05 15:24:04,332] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素，获取验证码
+[2022-05-05 15:24:04,369] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:04,885] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 请输入手机号码 == 请输入手机号码
+[2022-05-05 15:24:04,954] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:24:05,668] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-05 15:24:05,716] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:24:05,774] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素，获取验证码
+[2022-05-05 15:24:05,812] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:07,343] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 发送成功 == 帐号未注册，发送失败
+[2022-05-05 15:24:07,438] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:24:07,947] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-05 15:24:08,013] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:24:08,114] [log.py|__console] [line:40] INFO    : 获取 [placeholder='请输入验证码'] 元素的文本
+[2022-05-05 15:24:08,166] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素，进行登录
+[2022-05-05 15:24:08,205] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:23,907] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x00000000036ED3A0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:24:23,907] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:24:23,908] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 验证码错误
+[2022-05-05 15:24:23,990] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:24:24,572] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-05 15:24:24,635] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:24:24,713] [log.py|__console] [line:40] INFO    : 获取 [placeholder='请输入验证码'] 元素的文本
+[2022-05-05 15:24:24,756] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素，进行登录
+[2022-05-05 15:24:24,785] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:40,443] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x00000000036ED3A0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:24:40,443] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:24:40,444] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 验证码错误
+[2022-05-05 15:24:41,449] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:24:41,511] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-05 15:24:41,566] [log.py|__console] [line:40] INFO    : 获取 [placeholder='请输入验证码'] 元素的文本
+[2022-05-05 15:24:41,650] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素，进行登录
+[2022-05-05 15:24:41,681] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:42,197] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 请输入正确的手机号码！ == 请输入正确的手机号码
+[2022-05-05 15:24:42,719] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:24:42,782] [log.py|__console] [line:40] INFO    : 点击 wjpassword 元素，跳转到忘记密码页
+[2022-05-05 15:24:42,848] [log.py|__console] [line:40] INFO    : 获取忘记密码页页面标签-- div h2
+[2022-05-05 15:24:43,882] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:24:43,939] [log.py|__console] [line:40] INFO    : 点击 wjpassword 元素，跳转到忘记密码页
+[2022-05-05 15:24:44,007] [log.py|__console] [line:40] INFO    : 点击 p i 元素，跳转到忘记密码页
+[2022-05-05 15:24:44,083] [log.py|__console] [line:40] INFO    : 获取忘记密码页页面标签-- .password
+[2022-05-05 15:24:52,868] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:24:53,677] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-05 15:24:53,731] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:54,252] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 手机号码不能为空 == 手机号码不能为空
+[2022-05-05 15:24:54,319] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:24:54,832] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-05 15:24:54,908] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-05 15:24:54,953] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:55,469] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 手机号码不能为空 == 手机号码不能为空
+[2022-05-05 15:24:55,954] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:24:56,022] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:24:56,088] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:56,604] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 请输入手机号码 == 请输入手机号码
+[2022-05-05 15:24:57,128] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:24:57,194] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:24:57,267] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:24:57,320] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:24:57,836] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 发送成功 == 帐号已注册，发送失败
+[2022-05-05 15:24:58,385] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:24:58,451] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:24:58,503] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:24:58,554] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:25:14,213] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000037686A0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:25:14,213] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:25:14,214] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 验证码发送失败、请输入正确的手机号码
+[2022-05-05 15:25:14,308] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:25:15,160] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:25:15,231] [log.py|__console] [line:40] INFO    : 点击 el-checkbox__label 元素,跳转协议页面
+[2022-05-05 15:25:15,268] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-05 15:25:15,323] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-05 15:25:15,369] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:25:15,886] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码不正确
+[2022-05-05 15:25:15,886] [log.py|__console] [line:40] INFO    : 清空 [placeholder='请输入验证码'] 元素输入框
+[2022-05-05 15:25:15,908] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-05 15:25:15,935] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-05 15:25:15,952] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:25:16,464] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码无效，请查验后再试
+[2022-05-05 15:25:16,554] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:25:17,270] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-05 15:25:17,337] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:25:17,415] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:25:17,929] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 请输入手机号码 == 请输入手机号码
+[2022-05-05 15:25:17,996] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:25:18,721] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-05 15:25:18,784] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:25:18,885] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:25:18,920] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:25:19,438] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 发送成功 == 帐号已注册，发送失败
+[2022-05-05 15:25:19,521] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:25:20,232] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-05 15:25:20,285] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:25:20,364] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:25:20,398] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:25:36,054] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000037686A0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:25:36,054] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:25:36,055] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 手机号格式不正确
+[2022-05-05 15:25:36,171] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:25:37,069] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-05 15:25:37,116] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:25:37,168] [log.py|__console] [line:40] INFO    : 点击 el-checkbox__label 元素,跳转协议页面
+[2022-05-05 15:25:37,213] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-05 15:25:37,266] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-05 15:25:37,300] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:25:37,815] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码不正确
+[2022-05-05 15:25:37,815] [log.py|__console] [line:40] INFO    : 清空 [placeholder='请输入验证码'] 元素输入框
+[2022-05-05 15:25:37,838] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-05 15:25:37,867] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-05 15:25:37,884] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:25:38,395] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码无效，请查验后再试

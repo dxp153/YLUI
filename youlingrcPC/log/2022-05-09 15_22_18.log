@@ -1,0 +1,199 @@
+[2022-05-09 15:22:25,412] [log.py|__console] [line:40] INFO    : 鼠标悬停在轮播图上方-- div.el-carousel__container
+[2022-05-09 15:22:26,469] [log.py|__console] [line:40] INFO    : 点击轮播图右切-- .el-carousel__arrow--right
+[2022-05-09 15:22:26,540] [log.py|__console] [line:40] INFO    : 获取第一张轮播图位置-- //div[@class='el-carousel__container']/div[1]
+[2022-05-09 15:22:27,599] [log.py|__console] [line:40] INFO    : 鼠标悬停在轮播图上方-- div.el-carousel__container
+[2022-05-09 15:22:27,867] [log.py|__console] [line:40] INFO    : 点击轮播图左切-- .el-carousel__arrow--left
+[2022-05-09 15:22:27,972] [log.py|__console] [line:40] INFO    : 获取第一张轮播图位置-- //div[@class='el-carousel__container']/div[1]
+[2022-05-09 15:22:28,511] [log.py|__console] [line:40] INFO    : 点击轮播图里的按钮进行轮播图选择-- //ul[@class='el-carousel__indicators el-carousel__indicators--horizontal']/li[1]
+[2022-05-09 15:22:29,652] [log.py|__console] [line:40] INFO    : 获取第一张轮播图位置-- //div[@class='el-carousel__container']/div[1]
+[2022-05-09 15:22:38,956] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-09 15:22:39,241] [log.py|__console] [line:40] INFO    : 获取当前页标签-- a.textS
+[2022-05-09 15:22:40,341] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-09 15:22:40,409] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-09 15:22:40,825] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找人才']
+[2022-05-09 15:22:40,869] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-09 15:22:40,967] [log.py|__console] [line:40] INFO    : 获取当前页标签-- a.textS
+[2022-05-09 15:22:42,061] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-09 15:22:42,120] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-09 15:22:42,403] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='批量用工']
+[2022-05-09 15:22:42,471] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-09 15:22:42,565] [log.py|__console] [line:40] INFO    : 获取当前页标签-- a.textS
+[2022-05-09 15:22:43,868] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-09 15:22:43,937] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-09 15:22:44,217] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找工作']
+[2022-05-09 15:22:44,293] [log.py|__console] [line:40] INFO    : 首页搜索框中输入搜索内容-- //input[@placeholder='搜索职位、公司']
+[2022-05-09 15:22:44,359] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-09 15:22:44,969] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[1]//p[@class='textStyle']/span[1]
+[2022-05-09 15:22:45,488] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[1]//p[@class='textStyle']/span[2]
+[2022-05-09 15:22:46,007] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[1]//span[@class='Textright']
+[2022-05-09 15:22:46,544] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[2]//p[@class='textStyle']/span[1]
+[2022-05-09 15:22:47,063] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[2]//p[@class='textStyle']/span[2]
+[2022-05-09 15:22:47,582] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[2]//span[@class='Textright']
+[2022-05-09 15:22:48,113] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[3]//p[@class='textStyle']/span[1]
+[2022-05-09 15:22:48,634] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[3]//p[@class='textStyle']/span[2]
+[2022-05-09 15:22:49,153] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[3]//span[@class='Textright']
+[2022-05-09 15:22:49,685] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[4]//p[@class='textStyle']/span[1]
+[2022-05-09 15:22:50,205] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[4]//p[@class='textStyle']/span[2]
+[2022-05-09 15:22:50,725] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[4]//span[@class='Textright']
+[2022-05-09 15:22:51,256] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[5]//p[@class='textStyle']/span[1]
+[2022-05-09 15:22:51,777] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[5]//p[@class='textStyle']/span[2]
+[2022-05-09 15:22:52,296] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[5]//span[@class='Textright']
+[2022-05-09 15:22:52,828] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[6]//p[@class='textStyle']/span[1]
+[2022-05-09 15:22:53,351] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[6]//p[@class='textStyle']/span[2]
+[2022-05-09 15:22:53,871] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[6]//span[@class='Textright']
+[2022-05-09 15:22:54,402] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[7]//p[@class='textStyle']/span[1]
+[2022-05-09 15:22:54,922] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[7]//p[@class='textStyle']/span[2]
+[2022-05-09 15:22:55,442] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[7]//span[@class='Textright']
+[2022-05-09 15:22:55,972] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[8]//p[@class='textStyle']/span[1]
+[2022-05-09 15:22:56,492] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[8]//p[@class='textStyle']/span[2]
+[2022-05-09 15:22:57,013] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[8]//span[@class='Textright']
+[2022-05-09 15:22:57,544] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[9]//p[@class='textStyle']/span[1]
+[2022-05-09 15:22:58,064] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[9]//p[@class='textStyle']/span[2]
+[2022-05-09 15:22:58,584] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[9]//span[@class='Textright']
+[2022-05-09 15:22:59,115] [log.py|__console] [line:40] INFO    : 获取列表中的岗位名称-- //div[@class='leftCentent']/ul[10]//p[@class='textStyle']/span[1]
+[2022-05-09 15:22:59,635] [log.py|__console] [line:40] INFO    : 获取列表中的企业名称-- //div[@class='leftCentent']/ul[10]//p[@class='textStyle']/span[2]
+[2022-05-09 15:23:00,155] [log.py|__console] [line:40] INFO    : 获取列表中的岗位类型-- //div[@class='leftCentent']/ul[10]//span[@class='Textright']
+[2022-05-09 15:23:00,757] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-09 15:23:01,325] [log.py|__console] [line:40] INFO    : 鼠标选停在搜索类型-- .el-select-dropdown__wrap.el-scrollbar__wrap
+[2022-05-09 15:23:01,619] [log.py|__console] [line:40] INFO    : 切换搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找人才']
+[2022-05-09 15:23:01,689] [log.py|__console] [line:40] INFO    : 首页搜索框中输入搜索内容-- //input[@placeholder='搜索职位、公司']
+[2022-05-09 15:23:01,817] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-09 15:23:02,867] [log.py|__console] [line:46] ERROR   : Message: element click intercepted: Element <button data-v-074fe9f6="" type="button" class="el-button butselect el-button--default">...</button> is not clickable at point (1233, 450). Other element would receive the click: <div data-v-074fe9f6="" class="broadside concealSty">...</div>
+  (Session info: chrome=100.0.4896.127)
+
+[2022-05-09 15:23:18,063] [log.py|__console] [line:46] ERROR   : <pages.looking_talent.LookTalent object at 0x00000000036099D0>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]")元素
+[2022-05-09 15:23:27,533] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:23:27,597] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-09 15:23:27,678] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-09 15:23:27,743] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-09 15:23:27,790] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:23:28,310] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 密码不能为空！ == 密码不能为空！
+[2022-05-09 15:23:28,388] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:23:28,926] [log.py|__console] [line:46] ERROR   : 手机号类型错误，请输入数字
+[2022-05-09 15:23:28,927] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-09 15:23:28,988] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-09 15:23:29,047] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:23:29,566] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 请输入正确的手机号码！ == 请输入正确的手机号码！
+[2022-05-09 15:23:29,642] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:23:30,233] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-09 15:23:30,300] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-09 15:23:30,354] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-09 15:23:30,404] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:23:30,919] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 输入的账号或密码错误~ == 输入的账号或密码错误~
+[2022-05-09 15:23:31,511] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:23:31,571] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-09 15:23:31,636] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-09 15:23:31,686] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-09 15:23:31,737] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:23:32,253] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 输入的账号或密码错误~ == 输入的账号或密码错误~
+[2022-05-09 15:23:32,865] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:23:32,922] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-09 15:23:32,975] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素，获取验证码
+[2022-05-09 15:23:33,045] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:23:33,561] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 请输入手机号码 == 请输入手机号码
+[2022-05-09 15:23:34,169] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:23:34,226] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-09 15:23:34,297] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-09 15:23:34,361] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素，获取验证码
+[2022-05-09 15:23:34,388] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:23:34,906] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 发送成功 == 帐号未注册，发送失败
+[2022-05-09 15:23:35,489] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:23:35,584] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-09 15:23:35,630] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-09 15:23:35,678] [log.py|__console] [line:40] INFO    : 获取 [placeholder='请输入验证码'] 元素的文本
+[2022-05-09 15:23:35,725] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素，进行登录
+[2022-05-09 15:23:35,761] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:23:51,430] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x00000000036753A0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-09 15:23:51,430] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-09 15:23:51,431] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 验证码错误
+[2022-05-09 15:23:52,361] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:23:52,420] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-09 15:23:52,518] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-09 15:23:52,614] [log.py|__console] [line:40] INFO    : 获取 [placeholder='请输入验证码'] 元素的文本
+[2022-05-09 15:23:52,659] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素，进行登录
+[2022-05-09 15:23:52,686] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:08,356] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x00000000036753A0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-09 15:24:08,356] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-09 15:24:08,357] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 验证码错误
+[2022-05-09 15:24:09,253] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:24:09,309] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-09 15:24:09,392] [log.py|__console] [line:40] INFO    : 获取 [placeholder='请输入验证码'] 元素的文本
+[2022-05-09 15:24:09,459] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素，进行登录
+[2022-05-09 15:24:09,491] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:10,007] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 请输入正确的手机号码！ == 请输入正确的手机号码
+[2022-05-09 15:24:10,664] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:24:10,793] [log.py|__console] [line:40] INFO    : 点击 wjpassword 元素，跳转到忘记密码页
+[2022-05-09 15:24:10,842] [log.py|__console] [line:40] INFO    : 获取忘记密码页页面标签-- div h2
+[2022-05-09 15:24:11,978] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:24:12,037] [log.py|__console] [line:40] INFO    : 点击 wjpassword 元素，跳转到忘记密码页
+[2022-05-09 15:24:12,133] [log.py|__console] [line:40] INFO    : 点击 p i 元素，跳转到忘记密码页
+[2022-05-09 15:24:12,213] [log.py|__console] [line:40] INFO    : 获取忘记密码页页面标签-- .password
+[2022-05-09 15:24:21,680] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:24:21,751] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-09 15:24:21,790] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:22,310] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 手机号码不能为空 == 手机号码不能为空
+[2022-05-09 15:24:22,936] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:24:22,985] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-09 15:24:23,040] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-09 15:24:23,103] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:23,619] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 手机号码不能为空 == 手机号码不能为空
+[2022-05-09 15:24:24,270] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:24:24,320] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-09 15:24:24,406] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:24,923] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 请输入手机号码 == 请输入手机号码
+[2022-05-09 15:24:25,594] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:24:25,650] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-09 15:24:25,722] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-09 15:24:25,775] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:26,293] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 发送成功 == 帐号已注册，发送失败
+[2022-05-09 15:24:26,894] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:24:26,946] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-09 15:24:27,004] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-09 15:24:27,054] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:42,722] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000036356A0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-09 15:24:42,722] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-09 15:24:42,723] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 验证码发送失败、请输入正确的手机号码
+[2022-05-09 15:24:43,020] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:24:43,854] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-09 15:24:43,921] [log.py|__console] [line:40] INFO    : 点击 el-checkbox__label 元素,跳转协议页面
+[2022-05-09 15:24:43,983] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-09 15:24:44,044] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-09 15:24:44,079] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:44,597] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码不正确
+[2022-05-09 15:24:44,597] [log.py|__console] [line:40] INFO    : 清空 [placeholder='请输入验证码'] 元素输入框
+[2022-05-09 15:24:44,619] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-09 15:24:44,645] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-09 15:24:44,664] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:45,175] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码无效，请查验后再试
+[2022-05-09 15:24:46,041] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:24:46,120] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-09 15:24:46,168] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-09 15:24:46,204] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:46,719] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 请输入手机号码 == 请输入手机号码
+[2022-05-09 15:24:46,795] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:24:47,583] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-09 15:24:47,689] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-09 15:24:47,742] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-09 15:24:47,769] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:24:48,285] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 发送成功 == 帐号已注册，发送失败
+[2022-05-09 15:24:48,358] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:24:49,174] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-09 15:24:49,240] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-09 15:24:49,291] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-09 15:24:49,320] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:25:04,991] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000036356A0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-09 15:25:04,991] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-09 15:25:04,992] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 手机号格式不正确
+[2022-05-09 15:25:05,860] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-09 15:25:05,955] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-09 15:25:06,001] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-09 15:25:06,048] [log.py|__console] [line:40] INFO    : 点击 el-checkbox__label 元素,跳转协议页面
+[2022-05-09 15:25:06,085] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-09 15:25:06,137] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-09 15:25:06,171] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:25:06,688] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码不正确
+[2022-05-09 15:25:06,688] [log.py|__console] [line:40] INFO    : 清空 [placeholder='请输入验证码'] 元素输入框
+[2022-05-09 15:25:06,710] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-09 15:25:06,737] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-09 15:25:06,755] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-09 15:25:07,267] [log.py|__console] [line:40] INFO    : 断言系统的提示-- 验证码不正确 == 验证码无效，请查验后再试

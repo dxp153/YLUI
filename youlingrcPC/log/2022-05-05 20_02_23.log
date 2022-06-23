@@ -1,0 +1,2 @@
+[2022-05-05 20:02:30,870] [log.py|__console] [line:40] INFO    : 点击轮播图里的按钮进行轮播图选择-- //ul[@class='el-carousel__indicators el-carousel__indicators--horizontal']/li[3]
+[2022-05-05 20:02:31,419] [log.py|__console] [line:40] INFO    : 获取第一张轮播图位置-- //div[@class='el-carousel__container']/div[3]

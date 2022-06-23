@@ -1,0 +1,14 @@
+[2022-05-14 17:52:33,460] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-14 17:52:33,521] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-14 17:52:33,630] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-14 17:52:33,695] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-14 17:52:33,741] [log.py|__console] [line:40] INFO    : 切换模块-- //li[text()='我的简历']
+[2022-05-14 17:52:34,313] [log.py|__console] [line:40] INFO    : 点击我的名片中的编辑按钮-- //div[@class='myMessage2']//span[@class='riCompile']/span
+[2022-05-14 17:52:34,428] [log.py|__console] [line:40] INFO    : 点击想要的工作按钮-- .wantjob .btn
+[2022-05-14 17:52:34,491] [log.py|__console] [line:40] INFO    : 选择想要的一级工作-- //div[@class='el-scrollbar__view']//span[text()='服务行业']
+[2022-05-14 17:52:34,557] [log.py|__console] [line:40] INFO    : 选择想要的二级工作-- //div[@class='el-scrollbar__view']//span[text()='司机']
+[2022-05-14 17:52:34,610] [log.py|__console] [line:40] INFO    : 获取三级工作岗位数量-- //ul[@class='threeList']/li
+[2022-05-14 17:52:34,814] [log.py|__console] [line:40] INFO    : 鼠标悬停到个人头像上-- .monicker.fl.clearfix
+[2022-05-14 17:52:35,103] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+

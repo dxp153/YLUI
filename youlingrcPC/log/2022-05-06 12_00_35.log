@@ -1,0 +1,5 @@
+[2022-05-06 12:00:41,932] [log.py|__console] [line:40] INFO    : 首页搜索框中输入搜索内容-- li.el-select-dropdown__item.selected.hover
+[2022-05-06 12:00:57,792] [log.py|__console] [line:46] ERROR   : <pages.homepage_g.HomePage object at 0x000000000393BF40>页面未找到('css selector', 'li.el-select-dropdown__item.selected.hover')元素
+[2022-05-06 12:00:57,792] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-06 12:00:57,793] [log.py|__console] [line:40] INFO    : 点击搜索按钮-- //button[@class='el-button butselect el-button--default']
+[2022-05-06 12:00:58,066] [log.py|__console] [line:40] INFO    : 获取当前页标签-- .router-link-active.textS

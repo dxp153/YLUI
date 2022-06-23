@@ -1,0 +1,18 @@
+[2022-05-31 14:16:44,337] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-31 14:16:45,142] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-31 14:16:45,233] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-31 14:16:45,309] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-31 14:16:45,385] [log.py|__console] [line:40] INFO    : 切换模块-- //li[text()='我的投递页']
+[2022-05-31 14:17:00,671] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x00000000039E80D0>页面未找到('xpath', "//li[text()='我的投递页']")元素
+[2022-05-31 14:17:00,671] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-31 14:17:00,672] [log.py|__console] [line:40] INFO    : 输入企业、职位名称-- .myMessage1 .el-input-group--append input
+[2022-05-31 14:17:15,871] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x00000000039E80D0>页面未找到('css selector', '.myMessage1 .el-input-group--append input')元素
+[2022-05-31 14:17:15,871] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x00000000039E80D0> 页面未找到 ('css selector', '.myMessage1 .el-input-group--append input') 元素
+[2022-05-31 14:17:15,872] [log.py|__console] [line:40] INFO    : 点击查询按钮-- .inputBox .el-input-group--append span
+[2022-05-31 14:17:31,122] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x00000000039E80D0>页面未找到('css selector', '.inputBox .el-input-group--append span')元素
+[2022-05-31 14:17:31,122] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-31 14:17:31,123] [log.py|__console] [line:40] INFO    : 获取当前页简历投递详情信息-- .el-table__row
+[2022-05-31 14:17:46,357] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x00000000039E80D0>页面未找到('css selector', '.el-table__row')元素
+[2022-05-31 14:18:01,573] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x00000000039E80D0>页面未找到('css selector', '.el-table__row')元素
+[2022-05-31 14:18:01,574] [log.py|__console] [line:46] ERROR   : object of type 'NoneType' has no len()
+[2022-05-31 14:18:01,577] [log.py|__console] [line:40] INFO    : 鼠标悬停到个人头像上-- .monicker.fl.clearfix

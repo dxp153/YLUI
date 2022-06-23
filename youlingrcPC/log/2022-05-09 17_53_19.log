@@ -1,0 +1,9 @@
+[2022-05-09 17:53:25,605] [log.py|__console] [line:40] INFO    : 鼠标悬停，停留在服务业，对行业详情进行展开-- //ul[@class='above']//div[text()='服务业' and @class='fl']]
+[2022-05-09 17:53:41,069] [log.py|__console] [line:46] ERROR   : <pages.homepage_g.HomePage object at 0x000000000391DDC0>页面未找到('xpath', "//ul[@class='above']//div[text()='服务业' and @class='fl']]")元素
+[2022-05-09 17:53:56,289] [log.py|__console] [line:46] ERROR   : <pages.homepage_g.HomePage object at 0x000000000391DDC0>页面未找到('xpath', "//ul[@class='above']//div[text()='服务业' and @class='fl']]")元素
+[2022-05-09 17:53:56,290] [log.py|__console] [line:46] ERROR   : move_to requires a WebElement
+[2022-05-09 17:53:56,291] [log.py|__console] [line:40] INFO    : 选择三级岗位--  促销导购 
+[2022-05-09 17:53:56,324] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-05-09 17:54:11,552] [log.py|__console] [line:46] ERROR   : <pages.job_search.JobSearch object at 0x000000000391DD60>页面未找到('xpath', "//div[@class='leftCentent']/ul[1]")元素

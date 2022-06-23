@@ -1,0 +1,5 @@
+[2022-05-06 15:45:34,088] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-input-group__prepend']//input
+[2022-05-06 15:45:34,819] [log.py|__console] [line:40] INFO    : 展开搜索类型-- //div[@class='el-select-dropdown__wrap el-scrollbar__wrap']//span[text()='找人才']
+[2022-05-06 15:45:34,844] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=95.0.4638.69)
+

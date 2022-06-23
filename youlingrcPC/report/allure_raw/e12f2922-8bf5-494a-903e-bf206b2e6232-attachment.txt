@@ -1,0 +1,4 @@
+[2022-05-09 15:24:11,978] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-09 15:24:12,037] [log.py|__console] [line:40] INFO    : 点击 wjpassword 元素，跳转到忘记密码页
+[2022-05-09 15:24:12,133] [log.py|__console] [line:40] INFO    : 点击 p i 元素，跳转到忘记密码页
+[2022-05-09 15:24:12,213] [log.py|__console] [line:40] INFO    : 获取忘记密码页页面标签-- .password

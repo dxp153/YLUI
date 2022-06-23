@@ -1,0 +1,3 @@
+定位方式-》css selector,value值-》li.shu+li p
+定位方式-》class name,value值-》bttn
+定位方式-》xpath,value值-》//div[@role='alert']

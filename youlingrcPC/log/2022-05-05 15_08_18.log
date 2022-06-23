@@ -1,0 +1,273 @@
+[2022-05-05 15:08:34,826] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:08:36,521] [log.py|__console] [line:46] ERROR   : Message: element click intercepted: Element is not clickable at point (1116, 25)
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:08:36,521] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:08:51,686] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:08:51,686] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:08:51,687] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-05 15:09:06,857] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', "[placeholder='请输入密码']")元素
+[2022-05-05 15:09:06,857] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0> 页面未找到 ('css selector', "[placeholder='请输入密码']") 元素
+[2022-05-05 15:09:06,858] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-05 15:09:22,040] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('xpath', "//span[text()='登录']")元素
+[2022-05-05 15:09:22,040] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:09:22,041] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:09:37,825] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:09:37,825] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:09:37,826] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 密码不能为空！
+[2022-05-05 15:09:38,539] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:09:39,157] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:09:39,158] [log.py|__console] [line:46] ERROR   : 手机号类型错误，请输入数字
+[2022-05-05 15:09:39,158] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-05 15:09:54,357] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', "[placeholder='请输入密码']")元素
+[2022-05-05 15:09:54,358] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0> 页面未找到 ('css selector', "[placeholder='请输入密码']") 元素
+[2022-05-05 15:09:54,358] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-05 15:10:09,534] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('xpath', "//span[text()='登录']")元素
+[2022-05-05 15:10:09,534] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:10:09,535] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:10:25,222] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:10:25,222] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:10:25,223] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 请输入正确的手机号码！
+[2022-05-05 15:10:25,924] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:10:26,520] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:10:26,521] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:10:41,682] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:10:41,682] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:10:41,683] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-05 15:10:56,853] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', "[placeholder='请输入密码']")元素
+[2022-05-05 15:10:56,853] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0> 页面未找到 ('css selector', "[placeholder='请输入密码']") 元素
+[2022-05-05 15:10:56,854] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-05 15:11:12,033] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('xpath', "//span[text()='登录']")元素
+[2022-05-05 15:11:12,033] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:11:12,034] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:11:27,721] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:11:27,721] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:11:28,396] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:11:29,009] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:11:29,009] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:11:44,173] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:11:44,173] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:11:44,174] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-05 15:11:59,354] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', "[placeholder='请输入密码']")元素
+[2022-05-05 15:11:59,354] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0> 页面未找到 ('css selector', "[placeholder='请输入密码']") 元素
+[2022-05-05 15:11:59,355] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-05 15:12:14,533] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('xpath', "//span[text()='登录']")元素
+[2022-05-05 15:12:14,533] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:12:14,534] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:12:30,226] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:12:30,226] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:12:30,933] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:12:31,535] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:12:31,536] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-05 15:12:46,702] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', 'span.verification')元素
+[2022-05-05 15:12:46,702] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:12:46,703] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素，获取验证码
+[2022-05-05 15:12:46,723] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:12:46,723] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:13:02,401] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:13:02,401] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:13:02,402] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 请输入手机号码
+[2022-05-05 15:13:03,138] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:13:03,773] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:13:03,773] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-05 15:13:18,924] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', 'span.verification')元素
+[2022-05-05 15:13:18,924] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:13:18,925] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:13:34,094] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:13:34,094] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:13:34,095] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素，获取验证码
+[2022-05-05 15:13:34,116] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:13:34,117] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:13:49,810] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:13:49,810] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:13:49,811] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 帐号未注册，发送失败
+[2022-05-05 15:13:50,506] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:13:51,106] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:13:51,106] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-05 15:14:06,267] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', 'span.verification')元素
+[2022-05-05 15:14:06,267] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:14:06,268] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:14:21,429] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:14:21,429] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:14:21,430] [log.py|__console] [line:40] INFO    : 获取 [placeholder='请输入验证码'] 元素的文本
+[2022-05-05 15:14:22,221] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:14:22,831] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:14:22,832] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-05 15:14:37,991] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', 'span.verification')元素
+[2022-05-05 15:14:37,991] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:14:37,992] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-05 15:14:53,159] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:14:53,160] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:14:53,160] [log.py|__console] [line:40] INFO    : 获取 [placeholder='请输入验证码'] 元素的文本
+[2022-05-05 15:14:53,954] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:14:54,651] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:14:54,652] [log.py|__console] [line:40] INFO    : 点击 span.verification 元素切换到验证码登录
+[2022-05-05 15:15:09,810] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', 'span.verification')元素
+[2022-05-05 15:15:09,810] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:15:09,811] [log.py|__console] [line:40] INFO    : 获取 [placeholder='请输入验证码'] 元素的文本
+[2022-05-05 15:15:10,578] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:15:11,251] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:15:11,251] [log.py|__console] [line:40] INFO    : 点击 wjpassword 元素，跳转到忘记密码页
+[2022-05-05 15:15:26,412] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('class name', 'wjpassword')元素
+[2022-05-05 15:15:26,412] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:15:26,413] [log.py|__console] [line:40] INFO    : 获取忘记密码页页面标签-- div h2
+[2022-05-05 15:15:42,074] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', 'div h2')元素
+[2022-05-05 15:15:42,074] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:15:42,754] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-05 15:15:43,331] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:15:43,331] [log.py|__console] [line:40] INFO    : 点击 wjpassword 元素，跳转到忘记密码页
+[2022-05-05 15:15:58,487] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('class name', 'wjpassword')元素
+[2022-05-05 15:15:58,488] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:15:58,488] [log.py|__console] [line:40] INFO    : 点击 p i 元素，跳转到忘记密码页
+[2022-05-05 15:15:58,527] [log.py|__console] [line:40] INFO    : 获取忘记密码页页面标签-- .password
+[2022-05-05 15:16:14,194] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000367EEE0>页面未找到('css selector', '.password')元素
+[2022-05-05 15:16:14,194] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:16:23,914] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:16:25,604] [log.py|__console] [line:46] ERROR   : Message: element click intercepted: Element is not clickable at point (1175, 25)
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:16:25,605] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-05 15:16:40,771] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('class name', 'bttn')元素
+[2022-05-05 15:16:40,771] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:16:40,772] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:16:56,453] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:16:56,453] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:16:56,454] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 手机号码不能为空
+[2022-05-05 15:16:56,923] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:16:57,413] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:16:57,414] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-05 15:17:12,597] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//span[text()='我要招聘']")元素
+[2022-05-05 15:17:12,597] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:17:12,598] [log.py|__console] [line:40] INFO    : 点击注册按钮-- el-input-group__append
+[2022-05-05 15:17:27,755] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('class name', 'bttn')元素
+[2022-05-05 15:17:27,755] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:17:27,756] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:17:43,440] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:17:43,440] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:17:43,441] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 手机号码不能为空
+[2022-05-05 15:17:44,125] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:17:44,695] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:17:44,696] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:17:44,713] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:17:44,713] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:18:00,383] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:18:00,383] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:18:00,384] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 请输入手机号码
+[2022-05-05 15:18:01,610] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:18:01,624] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:18:01,625] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:18:16,793] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:18:16,793] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:18:16,794] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:18:16,814] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:18:16,815] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:18:32,503] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:18:32,503] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:18:32,504] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 帐号已注册，发送失败
+[2022-05-05 15:18:33,143] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:18:33,861] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:18:33,862] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:18:49,026] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:18:49,026] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:18:49,027] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:18:49,047] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:18:49,048] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:19:04,726] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:19:04,726] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:19:04,727] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 验证码发送失败、请输入正确的手机号码
+[2022-05-05 15:19:05,435] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:19:06,021] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:19:06,021] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:19:21,184] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:19:21,184] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:19:21,185] [log.py|__console] [line:40] INFO    : 点击 el-checkbox__label 元素,跳转协议页面
+[2022-05-05 15:19:36,354] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('class name', 'el-checkbox__label')元素
+[2022-05-05 15:19:36,354] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:19:36,355] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入验证码'] 中填写验证码
+[2022-05-05 15:19:37,113] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:19:37,686] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:19:37,686] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-05 15:19:52,872] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//span[text()='我要招聘']")元素
+[2022-05-05 15:19:52,872] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:19:52,873] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:19:52,892] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:19:52,893] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:20:08,575] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:20:08,575] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:20:08,576] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 请输入手机号码
+[2022-05-05 15:20:09,284] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:20:09,889] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:20:09,890] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-05 15:20:25,062] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//span[text()='我要招聘']")元素
+[2022-05-05 15:20:25,062] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:20:25,063] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:20:40,254] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:20:40,254] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:20:40,255] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:20:40,275] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:20:40,276] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本
+[2022-05-05 15:20:55,957] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//div[@role='alert']")元素
+[2022-05-05 15:20:55,957] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-05 15:20:55,958] [log.py|__console] [line:40] INFO    : 断言系统的提示-- None == 帐号已注册，发送失败
+[2022-05-05 15:20:56,632] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-05 15:20:57,258] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: headless chrome=95.0.4638.69)
+
+[2022-05-05 15:20:57,258] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册
+[2022-05-05 15:21:12,442] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('xpath', "//span[text()='我要招聘']")元素
+[2022-05-05 15:21:12,442] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:21:12,443] [log.py|__console] [line:40] INFO    : 向输入框 [placeholder='请输入手机号'] 中填写手机号
+[2022-05-05 15:21:16,358] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-05 15:21:16,358] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-05 15:21:16,359] [log.py|__console] [line:40] INFO    : 点击 el-input-group__append 元素,获取验证码
+[2022-05-05 15:21:16,369] [log.py|__console] [line:46] ERROR   : <pages.login_sgin.SginEle object at 0x00000000044552E0>页面未找到('class name', 'el-input-group__append')元素
+[2022-05-05 15:21:16,369] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-05 15:21:16,370] [log.py|__console] [line:40] INFO    : 获取 //div[@role='alert'] 元素的文本

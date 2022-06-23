@@ -1,0 +1,19 @@
+[2022-05-14 15:30:54,084] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-14 15:30:54,149] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-14 15:30:54,257] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-14 15:30:54,331] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-14 15:30:54,394] [log.py|__console] [line:40] INFO    : 切换模块-- //li[text()='我的简历']
+[2022-05-14 15:30:54,964] [log.py|__console] [line:40] INFO    : 点击我的名片中的编辑按钮-- //div[@class='myMessage2']//span[@class='riCompile']/span
+[2022-05-14 15:30:55,070] [log.py|__console] [line:40] INFO    : 编辑名片中，点击生日控件-- //div[@class='xinxi']/div[@class='top'][1]//input
+[2022-05-14 15:30:57,003] [log.py|__console] [line:40] INFO    : 切换出生日期-- .available * span:nth-child(1)
+[2022-05-14 15:30:57,042] [log.py|__console] [line:40] INFO    : 点击学历选择框-- div.xinxi div.el-select input.el-input__inner
+[2022-05-14 15:31:02,098] [log.py|__console] [line:40] INFO    : 选择学历-- //span[text()='高中']
+[2022-05-14 15:31:02,137] [log.py|__console] [line:40] INFO    : 点击工龄选择框-- div.wantjob div.el-select input.el-input__inner
+[2022-05-14 15:31:02,199] [log.py|__console] [line:40] INFO    : 选择工龄-- //span[text()='10年以上']
+[2022-05-14 15:31:07,234] [log.py|__console] [line:40] INFO    : 确认修改编辑后的我的名片-- //div[@class='compileMyMessage']//span[@class='riCompile']/span[2]
+[2022-05-14 15:31:07,284] [log.py|__console] [line:40] INFO    : 获取用户信息-- //div[@class='myMessage2']//div[@class='xinxi']/span[2]
+[2022-05-14 15:31:07,803] [log.py|__console] [line:40] INFO    : 获取用户信息-- //div[@class='myMessage2']//div[@class='xinxi']/span[3]
+[2022-05-14 15:31:08,322] [log.py|__console] [line:40] INFO    : 获取用户信息-- //div[@class='myMessage2']//div[@class='xinxi']/span[4]
+[2022-05-14 15:31:24,014] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x0000000003AAD310>页面未找到('xpath', "//div[@class='myMessage2']//div[@class='xinxi']/span[4]")元素
+[2022-05-14 15:31:24,014] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-14 15:31:24,191] [log.py|__console] [line:40] INFO    : 鼠标悬停到个人头像上-- .monicker.fl.clearfix

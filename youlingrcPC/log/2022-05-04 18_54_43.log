@@ -1,0 +1,2 @@
+[2022-05-04 18:54:49,408] [log.py|__console] [line:40] INFO    : 点击 li.shu+li p 元素,跳转注册页面
+[2022-05-04 18:54:50,223] [log.py|__console] [line:40] INFO    : 点击 //span[text()='我要招聘'] 元素,切换企业用户注册

@@ -1,0 +1,18 @@
+[2022-05-11 18:22:39,955] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-11 18:22:42,518] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000393C070>页面未找到('class name', 'loginSty')元素
+[2022-05-11 18:22:42,518] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-11 18:22:42,519] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-11 18:22:42,521] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000393C070>页面未找到('css selector', "[placeholder='请输入手机号']")元素
+[2022-05-11 18:22:42,522] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000393C070> 页面未找到 ('css selector', "[placeholder='请输入手机号']") 元素
+[2022-05-11 18:22:42,522] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-11 18:22:42,525] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000393C070>页面未找到('css selector', "[placeholder='请输入密码']")元素
+[2022-05-11 18:22:42,526] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000393C070> 页面未找到 ('css selector', "[placeholder='请输入密码']") 元素
+[2022-05-11 18:22:42,527] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-11 18:22:42,529] [log.py|__console] [line:46] ERROR   : <pages.login_login.LoginFun object at 0x000000000393C070>页面未找到('xpath', "//span[text()='登录']")元素
+[2022-05-11 18:22:42,529] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-05-11 18:22:42,532] [log.py|__console] [line:40] INFO    : 获取导航栏用户姓名-- div.monicker.fl.clearfix>span.nameSty
+[2022-05-11 18:22:43,033] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x0000000003941310>页面未找到('css selector', 'div.monicker.fl.clearfix>span.nameSty')元素
+[2022-05-11 18:22:43,033] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-11 18:22:43,034] [log.py|__console] [line:40] INFO    : 获取当前用户的用户姓名-- div.top>span.name
+[2022-05-11 18:22:43,536] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x0000000003941310>页面未找到('css selector', 'div.top>span.name')元素
+[2022-05-11 18:22:43,536] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'

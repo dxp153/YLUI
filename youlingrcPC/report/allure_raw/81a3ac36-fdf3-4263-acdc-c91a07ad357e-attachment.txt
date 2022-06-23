@@ -1,0 +1,35 @@
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:62024/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:226 Starting new HTTP connection (1): 127.0.0.1:62024
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:62024 "POST /session HTTP/1.1" 200 794
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:62024/session/451e654c9d04ce46a4ba9fb3d3cf6b96/url {"url": "https://www.youlingrc.com/#/entirety/subject"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:62024 "POST /session/451e654c9d04ce46a4ba9fb3d3cf6b96/url HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:62024/session/451e654c9d04ce46a4ba9fb3d3cf6b96/window/maximize {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:62024 "POST /session/451e654c9d04ce46a4ba9fb3d3cf6b96/window/maximize HTTP/1.1" 200 52
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:62024/session/451e654c9d04ce46a4ba9fb3d3cf6b96/refresh {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:62024 "POST /session/451e654c9d04ce46a4ba9fb3d3cf6b96/refresh HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 点击 li.shu+li p 元素,跳转注册页面
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:62024/session/451e654c9d04ce46a4ba9fb3d3cf6b96/element {"using": "css selector", "value": "li.shu+li p"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:62024 "POST /session/451e654c9d04ce46a4ba9fb3d3cf6b96/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:62024/session/451e654c9d04ce46a4ba9fb3d3cf6b96/element/9a2a0c3d-a28e-4508-836a-6fef12dfd186/click {"id": "9a2a0c3d-a28e-4508-836a-6fef12dfd186"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:62024 "POST /session/451e654c9d04ce46a4ba9fb3d3cf6b96/element/9a2a0c3d-a28e-4508-836a-6fef12dfd186/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 点击注册按钮-- el-input-group__append
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:62024/session/451e654c9d04ce46a4ba9fb3d3cf6b96/element {"using": "css selector", "value": ".bttn"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:62024 "POST /session/451e654c9d04ce46a4ba9fb3d3cf6b96/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:62024/session/451e654c9d04ce46a4ba9fb3d3cf6b96/element/f691e70a-1174-4f87-8fb3-cf2901aed17e/click {"id": "f691e70a-1174-4f87-8fb3-cf2901aed17e"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:62024 "POST /session/451e654c9d04ce46a4ba9fb3d3cf6b96/element/f691e70a-1174-4f87-8fb3-cf2901aed17e/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 获取 //div[@role='alert'] 元素的文本
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:62024/session/451e654c9d04ce46a4ba9fb3d3cf6b96/element {"using": "xpath", "value": "//div[@role='alert']"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:62024 "POST /session/451e654c9d04ce46a4ba9fb3d3cf6b96/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:62024/session/451e654c9d04ce46a4ba9fb3d3cf6b96/element/ef6e5de3-0420-4eb0-a804-4bba0a56c9f3/text {"id": "ef6e5de3-0420-4eb0-a804-4bba0a56c9f3"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:62024 "GET /session/451e654c9d04ce46a4ba9fb3d3cf6b96/element/ef6e5de3-0420-4eb0-a804-4bba0a56c9f3/text HTTP/1.1" 200 36
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 断言系统的提示-- 手机号码不能为空 == 手机号码不能为空

@@ -1,0 +1,8 @@
+[2022-05-31 14:23:15,452] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-31 14:23:16,233] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-31 14:23:16,331] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-31 14:23:16,406] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-31 14:23:17,267] [log.py|__console] [line:46] ERROR   : Message: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+
+[2022-05-31 14:23:17,268] [log.py|__console] [line:40] INFO    : 鼠标悬停到个人头像上-- .monicker.fl.clearfix

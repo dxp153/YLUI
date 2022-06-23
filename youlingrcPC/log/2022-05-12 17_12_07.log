@@ -1,0 +1,12 @@
+[2022-05-12 17:12:14,031] [log.py|__console] [line:40] INFO    : 点击 loginSty 元素跳转到登录页
+[2022-05-12 17:12:14,824] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入手机号'] 元素进行手机号输入
+[2022-05-12 17:12:14,931] [log.py|__console] [line:40] INFO    : 定位 [placeholder='请输入密码'] 元素进行密码输入
+[2022-05-12 17:12:14,998] [log.py|__console] [line:40] INFO    : 点击 //span[text()='登录'] 元素进行登录操作
+[2022-05-12 17:12:15,089] [log.py|__console] [line:40] INFO    : 展开求职状态列表-- .el-select
+[2022-05-12 17:12:15,644] [log.py|__console] [line:40] INFO    : 选择求职状态-- //div[@class='el-select-dropdown el-popper']//span[text()='离职-随时到岗']
+[2022-05-12 17:12:16,209] [log.py|__console] [line:40] INFO    : 获取系统提示-- //div[@class='el-input-group__append']/span
+[2022-05-12 17:12:16,903] [log.py|__console] [line:40] INFO    : 切换模块-- //li[text()='我的简历']
+[2022-05-12 17:12:16,972] [log.py|__console] [line:40] INFO    : 获取简历页用户的求职状态-- li.el-select-dropdown__item.selected.hover
+[2022-05-12 17:12:32,643] [log.py|__console] [line:46] ERROR   : <pages.personal_center.PersonalCenter object at 0x00000000039764F0>页面未找到('css selector', 'li.el-select-dropdown__item.selected.hover')元素
+[2022-05-12 17:12:32,643] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'text'
+[2022-05-12 17:12:32,674] [log.py|__console] [line:40] INFO    : 鼠标悬停到个人头像上-- .monicker.fl.clearfix
